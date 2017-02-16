@@ -27,5 +27,6 @@ body {
     background: #70FF70;
 }
 .C {
+    clear:left;
     background: #7070FF;
 }
