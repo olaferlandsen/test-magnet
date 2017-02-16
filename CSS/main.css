@@ -1,0 +1,31 @@
+body {
+    color: #303030;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    margin: 0;
+}
+
+#container {
+    width: 100%;
+}
+
+.half {
+    float: left;
+    width: 50%;
+}
+
+.block {
+    height: 100px;
+}
+
+.A {
+    background: #FF7070;
+}
+
+.B {
+    background: #70FF70;
+}
+.C {
+    background: #7070FF;
+}
